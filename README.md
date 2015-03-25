@@ -5,6 +5,14 @@
 ##  说明
 此想法来源于 [ascii-camera](https://github.com/idevelop/ascii-camera) 项目，live-ascii-camera在此项目的基础上增加了websocket实时传输功能，通过workerman转发给其它浏览器。
 
+
+##  在线示例
+
+1、摄像头录制页面 http://live-ascii-camera.workerman.net/camera.html
+
+2、实时接收ascii码视频流页面 http://live-ascii-camera.workerman.net/
+
+
 ##  使用方法
 
 1、运行 php start.php start -d
