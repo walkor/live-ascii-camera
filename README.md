@@ -3,7 +3,7 @@
 利用HTML5将摄像头视频流转换成ascii码流，通过websocket实时传输给其它浏览器展示。服务端使用[workerman](http://www.workerman.net)
 
 ##  说明
-次想法来源于 [ascii-camera](https://github.com/idevelop/ascii-camera) 项目，在此项目的基础上增加了websocket实时传输功能，通过workerman转发给其它浏览器。
+此想法来源于 [ascii-camera](https://github.com/idevelop/ascii-camera) 项目，live-ascii-camera在此项目的基础上增加了websocket实时传输功能，通过workerman转发给其它浏览器。
 
 ##  使用方法
 
