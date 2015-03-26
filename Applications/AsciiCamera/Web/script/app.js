@@ -20,7 +20,7 @@
 	camera.init({
 		width: 160,
 		height: 120,
-		fps: 5,
+		fps: 10,
 		mirror: true,
 
 		onFrame: function(canvas) {
