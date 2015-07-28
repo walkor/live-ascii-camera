@@ -8,9 +8,9 @@
 
 ##  在线示例
 
-1、摄像头录制页面 http://live-ascii-camera.workerman.net/camera.html
+1、摄像头录制页面 http://www.workerman.net/demos/live-ascii-camera/camera.html
 
-2、实时接收ascii码视频流页面 http://live-ascii-camera.workerman.net/
+2、实时接收ascii码视频流页面 http://www.workerman.net/demos/live-ascii-camera/
 
 
 ##  使用方法
