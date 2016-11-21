@@ -2,6 +2,10 @@
 
 利用HTML5将摄像头视频流转换成ascii码流，通过websocket实时传输给其它浏览器展示。服务端使用[workerman](http://www.workerman.net)
 
+## 提示
+
+最好用火狐测试，谷歌浏览器升级了安全策略，谷歌浏览器只能在https下才能利用html5打开摄像头。
+
 ##  说明
 此想法来源于 [ascii-camera](https://github.com/idevelop/ascii-camera) 项目，live-ascii-camera在此项目的基础上增加了websocket实时传输功能，通过workerman转发给其它浏览器。
 
